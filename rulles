@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Red Balls",
+    "description": "at the beginning you have 10 balls, for every 8 hits on the yellow line you get 10 more balls, if you spend all your red balls you lose",
+    "imageUrl": "https://i.ibb.co/YphtxY8/ballforrulles.jpg"
+  },
+  {
+    "id": 2,
+    "name": "How to play?",
+    "description": "You need to correctly set the flight path of the red ball so that it falls beyond the yellow line",
+    "imageUrl": "https://i.ibb.co/fDmcNdT/rulles2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "End of the game",
+    "description": "At the end of the game you can see your current points and your best result",
+    "imageUrl": "https://i.ibb.co/6YM1yD9/gameover.jpg"
+  }
+  
+]
